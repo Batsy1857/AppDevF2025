@@ -1,5 +1,5 @@
-dash==2.9.3
+dash>=2.0
 plotly
 scikit-learn
 pandas
-numpy
+numpy==1.23.5 
