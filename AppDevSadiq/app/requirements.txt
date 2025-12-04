@@ -1,5 +1,2 @@
 dash>=2.0
 plotly
-scikit-learn
-pandas
-numpy==1.23.5 
